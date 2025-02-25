@@ -1,6 +1,6 @@
 name: html_content_measurer
 description: A utility for measuring the height of dynamically rendered HTML content in web applications.
-homepage: https://github.com/Tristan-2021
+homepage: https://github.com/Tristan-2021/html_content_measurer
 
 version: 1.0.1
 # repository: https://github.com/my_org/my_repo
